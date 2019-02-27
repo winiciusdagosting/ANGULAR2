@@ -1,0 +1,10 @@
+body{
+	background-image: url(Wall.JPEG);
+}
+
+img{
+	position: auto;
+	display: block; 
+	margin-left: auto; 
+	margin-right: auto
+}
